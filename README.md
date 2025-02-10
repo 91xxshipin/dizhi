@@ -2,11 +2,11 @@
 :sunglasses::sunglasses:地址发布:sunglasses::sunglasses:
 ==
 ------
-:heart: :point_right: 【地址一】：https://99xx.org
+:heart: :point_right: 【地址一】 ：https://99xx.org
 ------
-:heart: :point_right: 【地址二】：https://71xx.org
+:heart: :point_right: 【地址二】 ：https://71xx.org
 ------
-:heart: :point_right: 【地址三】 https://xxmp4.com
+:heart: :point_right: 【地址二】 ：https://xxmp4.com
 -----
 :heart: :point_right: 【地址四】 ：https://xx139.net
 ------
